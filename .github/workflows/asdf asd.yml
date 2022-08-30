@@ -1,0 +1,1 @@
+wget -O w7.sh https://bit.ly/Win7Script && chmod +x w7.sh && ./w7.sh
